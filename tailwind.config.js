@@ -42,7 +42,7 @@ module.exports = {
           foreground: "hsl(var(--muted-foreground))",
         },
         accent: {
-          DEFAULT: "#ed8936", // Soft warm orange
+          DEFAULT: "#ffe996", // Soft warm orange
           foreground: "#1a202c",
         },
         popover: {
@@ -56,7 +56,7 @@ module.exports = {
         // Custom soft colors
         soft: {
           blue: "#718096",
-          orange: "#dd6b20",
+          orange: "#ffca09ff",
           gray: "#a0aec0",
           slate: "#64748b",
           warm: "#f6e05e",
