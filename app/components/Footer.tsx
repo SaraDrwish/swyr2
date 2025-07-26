@@ -13,11 +13,10 @@ export default function Footer() {
   ]
 
   const quickLinks = ["الرئيسية", "العطور", "العروض", "من نحن", "تواصل معنا"]
-
   const categories = ["عطور رجالية", "عطور نسائية", "عطور مشتركة", "العود", "المسك"]
 
   return (
-    <footer className="bg-orange-900 text-white">
+    <footer className="bg-primary text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
@@ -30,7 +29,7 @@ export default function Footer() {
             <h3 className="text-2xl font-bold bg-gradient-to-r from-amber-400 to-amber-600 bg-clip-text text-transparent mb-4">
               عطور سوير
             </h3>
-            <p className="text-gray-300 mb-6 leading-relaxed">
+            <p className="text-orange-300 mb-6 leading-relaxed">
               متجرك الأول للعطور الفاخرة والأصيلة. نقدم لك أجود أنواع العطور من مختلف أنحاء العالم بأفضل الأسعار.
             </p>
 
@@ -39,7 +38,7 @@ export default function Footer() {
                 <motion.a
                   key={index}
                   href={social.href}
-                  className="p-2 bg-gray-800 rounded-full hover:bg-amber-600 transition-colors duration-300"
+                  className="p-2 bg-pink-300 rounded-full hover:bg-amber-600 transition-colors duration-300"
                   whileHover={{ scale: 1.1, y: -2 }}
                   whileTap={{ scale: 0.9 }}
                 >
@@ -113,16 +112,16 @@ export default function Footer() {
           transition={{ delay: 0.4, duration: 0.6 }}
           viewport={{ once: true }}
         >
-          <p className="text-gray-400 text-sm">© 2025 عطور سوير . جميع الحقوق محفوظة.</p>
+          <p className="text-orange-400 text-sm">© 2025 عطور سوير . جميع الحقوق محفوظة.</p>
 
           <div className="flex space-x-6 space-x-reverse mt-4 md:mt-0">
-            <a href="#" className="text-gray-400 hover:text-amber-400 text-sm transition-colors">
+            <a href="#" className="text-orange-400 hover:text-amber-400 text-sm transition-colors">
               سياسة الخصوصية
             </a>
-            <a href="#" className="text-gray-400 hover:text-amber-400 text-sm transition-colors">
+            <a href="#" className="text-orange-400 hover:text-amber-400 text-sm transition-colors">
               الشروط والأحكام
             </a>
-            <a href="#" className="text-gray-400 hover:text-amber-400 text-sm transition-colors">
+            <a href="#" className="text-orange-400 hover:text-amber-400 text-sm transition-colors">
               سياسة الإرجاع
             </a>
           </div>

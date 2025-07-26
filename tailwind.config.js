@@ -26,8 +26,8 @@ module.exports = {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         primary: {
-          DEFAULT: "#706561ff", // Soft slate blue
-          foreground: "#f7fafc",
+          DEFAULT: "#332824ff", // Soft slate blue
+          foreground: "#fcf7f9ff",
         },
         secondary: {
           DEFAULT: "#d69e2e", // Muted golden orange
@@ -57,9 +57,9 @@ module.exports = {
         soft: {
           blue: "#96717aff",
           orange: "#ffca09ff",
-          gray: "#a0aec0",
+          gray: "#c0a7a0ff",
           slate: "#ffb7cdff",
-          warm: "#f6e05e",
+          warm: "#f6aa5eff",
         },
       },
       borderRadius: {

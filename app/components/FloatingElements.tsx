@@ -24,7 +24,7 @@ export default function FloatingElements() {
             left: `${element.x}%`,
             top: `${element.y}%`,
             background: `linear-gradient(45deg, ${
-              Math.random() > 0.5 ? "rgba(74, 85, 104, 0.1)" : "rgba(214, 158, 46, 0.1)"
+              Math.random() > 0.5 ? "rgba(104, 74, 93, 0.1)" : "rgba(214, 158, 46, 0.1)"
             }, transparent)`,
           }}
           animate={{

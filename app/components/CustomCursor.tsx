@@ -53,7 +53,7 @@ export default function CustomCursor() {
       x: mousePosition.x - 12,
       y: mousePosition.y - 12,
       scale: 1.5,
-      backgroundColor: "rgba(74, 85, 104, 0.7)",
+      backgroundColor: "rgba(104, 80, 74, 0.7)",
       mixBlendMode: "multiply" as const,
     },
   }
