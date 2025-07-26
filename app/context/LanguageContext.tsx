@@ -19,7 +19,7 @@ const translations = {
     contact: "تواصل معنا",
 
     // Hero
-    heroTitle: "عطور الملوك",
+    heroTitle: "عطور سوير",
     heroSubtitle: "اكتشف مجموعتنا الفريدة من العطور الفاخرة والأصيلة",
     heroDescription: "رائحة تدوم... ذكريات تبقى",
     shopNow: "تسوق الآن",
@@ -59,7 +59,7 @@ const translations = {
     continueShopping: "متابعة التسوق",
 
     // Features
-    whyChooseUs: "لماذا تختار عطور الملوك؟",
+    whyChooseUs: "لماذا تختار عطور سوير",
     featuresDescription: "نقدم لك أفضل تجربة تسوق للعطور مع خدمات متميزة",
     freeShipping: "شحن مجاني",
     freeShippingDesc: "شحن مجاني لجميع الطلبات أكثر من 200 ريال",
@@ -102,7 +102,7 @@ const translations = {
     contact: "Contact",
 
     // Hero
-    heroTitle: "Perfume Kings",
+    heroTitle: "Perfume SWYR",
     heroSubtitle: "Discover our unique collection of luxury and authentic perfumes",
     heroDescription: "Lasting fragrance... Memories that remain",
     shopNow: "Shop Now",
@@ -142,7 +142,7 @@ const translations = {
     continueShopping: "Continue Shopping",
 
     // Features
-    whyChooseUs: "Why Choose Perfume Kings?",
+    whyChooseUs: "Why Choose Perfume SWYR?",
     featuresDescription: "We provide you with the best perfume shopping experience with premium services",
     freeShipping: "Free Shipping",
     freeShippingDesc: "Free shipping on all orders over 200 SAR",
