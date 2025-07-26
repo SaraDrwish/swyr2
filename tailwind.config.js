@@ -26,12 +26,12 @@ module.exports = {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         primary: {
-          DEFAULT: "#4a5568", // Soft slate blue
+          DEFAULT: "#706561ff", // Soft slate blue
           foreground: "#f7fafc",
         },
         secondary: {
           DEFAULT: "#d69e2e", // Muted golden orange
-          foreground: "#1a202c",
+          foreground: "#382a27ff",
         },
         destructive: {
           DEFAULT: "hsl(var(--destructive))",
@@ -43,7 +43,7 @@ module.exports = {
         },
         accent: {
           DEFAULT: "#ffe996", // Soft warm orange
-          foreground: "#1a202c",
+          foreground: "#48332eff",
         },
         popover: {
           DEFAULT: "hsl(var(--popover))",
@@ -55,7 +55,7 @@ module.exports = {
         },
         // Custom soft colors
         soft: {
-          blue: "#718096",
+          blue: "#96717aff",
           orange: "#ffca09ff",
           gray: "#a0aec0",
           slate: "#ffb7cdff",
